@@ -1,0 +1,8 @@
+.header-div {
+background:rgb(13, 52, 92);
+box-shadow: 0 1px 8px rgba(0, 0, 0, .1);     
+}
+
+.header-address-list__link {
+    color: #ffffff;
+}
