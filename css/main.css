@@ -1,5 +1,8 @@
+.icon{
+    color: #ffffff;
+}
 .header-div {
-background:rgb(13, 52, 92);
+background: linear-gradient(90deg, rgba(13, 52, 92, 1) 30%, rgba(0, 96, 191, 1) 80%);
 box-shadow: 0 1px 8px rgba(0, 0, 0, .1);     
 }
 
